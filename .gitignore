@@ -80,7 +80,7 @@ ProjectVersion.txt
 *.asmdef
 
 # Include
-!Assets/*
+!Assets/**
 
 # VRChat related folder to be ignored
 Assets/Udon/
